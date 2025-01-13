@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cognac/static/css/main.c6b5d640.css",
+    "main.js": "/cognac/static/js/main.dd254516.js",
+    "static/js/453.a3c60486.chunk.js": "/cognac/static/js/453.a3c60486.chunk.js",
+    "static/media/pixelcut-export.png": "/cognac/static/media/pixelcut-export.ad1f4d0489b21ebe01fa.png",
+    "index.html": "/cognac/index.html",
+    "main.c6b5d640.css.map": "/cognac/static/css/main.c6b5d640.css.map",
+    "main.dd254516.js.map": "/cognac/static/js/main.dd254516.js.map",
+    "453.a3c60486.chunk.js.map": "/cognac/static/js/453.a3c60486.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6b5d640.css",
+    "static/js/main.dd254516.js"
+  ]
+}
