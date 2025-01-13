@@ -1,16 +1,18 @@
 {
   "files": {
     "main.css": "/cognac/static/css/main.c6b5d640.css",
-    "main.js": "/cognac/static/js/main.dd254516.js",
+    "main.js": "/cognac/static/js/main.5c271ca3.js",
     "static/js/453.a3c60486.chunk.js": "/cognac/static/js/453.a3c60486.chunk.js",
     "static/media/pixelcut-export.png": "/cognac/static/media/pixelcut-export.ad1f4d0489b21ebe01fa.png",
+    "static/media/1.png": "/cognac/static/media/1.be1b6894efa54dcb801f.png",
+    "static/media/2.png": "/cognac/static/media/2.2bbfbe1be5f0dcf8c573.png",
     "index.html": "/cognac/index.html",
     "main.c6b5d640.css.map": "/cognac/static/css/main.c6b5d640.css.map",
-    "main.dd254516.js.map": "/cognac/static/js/main.dd254516.js.map",
+    "main.5c271ca3.js.map": "/cognac/static/js/main.5c271ca3.js.map",
     "453.a3c60486.chunk.js.map": "/cognac/static/js/453.a3c60486.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c6b5d640.css",
-    "static/js/main.dd254516.js"
+    "static/js/main.5c271ca3.js"
   ]
 }
